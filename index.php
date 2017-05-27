@@ -4,9 +4,9 @@ function luas_persegi($a,$b){
 };
 
 
-echo luas_segitiga(2,3);
+//echo luas_segitiga(2,3);
 echo luas_persegi(4,5);
-echo keliling_persegi();
-echo diameter_lingkaran();
+//echo keliling_persegi();
+//echo diameter_lingkaran();
 
 ?>
